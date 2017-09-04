@@ -1,0 +1,19 @@
+{
+  "name": "set-operations",
+  "version": "0.0.1",
+  "description": "Provide a library to apply set theory operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://atyn@github.com/Atyn/set-operations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atyn/set-operations/issues"
+  },
+  "homepage": "https://github.com/Atyn/set-operations#readme"
+}
