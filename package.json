@@ -4,6 +4,7 @@
   "description": "Provide a library to apply set theory operations",
   "main": "index.js",
   "scripts": {
+    "build": "babel ./src/index.js > indes.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
