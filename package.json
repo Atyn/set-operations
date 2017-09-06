@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+https://atyn@github.com/Atyn/set-operations.git"
   },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^7.2.3",
+    "babel-preset-es2015": "^6.24.1"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
